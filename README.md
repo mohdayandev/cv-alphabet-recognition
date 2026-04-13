@@ -48,7 +48,7 @@ To test the computer vision model on your own machine, you will need a functiona
 
 **1. Clone the repository**
 ~~~bash
-git clone https://github.com/mohd-ayan-dev/cv-alphabet-recognition.git
+git clone https://github.com/mohdayandev/cv-alphabet-recognition.git
 cd cv-alphabet-recognition
 ~~~
 
